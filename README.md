@@ -2,10 +2,12 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=taozhi8833998.taozhi883398&left_color=royalblue&right_color=black"  />
 <h3 align="center">Aspiring to be a Full-Stack Developer from Canada </h3>
 
-❤️ Front-End: HTML5, CSS,  SASS, Javascript Vanilla, Json, with knowledge in Node.js, Jquery.js, REACT.js. Last experience in a project: https://github.com/TyLandry/Coworking-Group-2  </br>
+❤️ Front-End: HTML5, CSS,  SASS, Javascript Vanilla, REACT.js. Last experience in a project: https://github.com/TyLandry/Coworking-Group-2  </br>
 ❤️ Front-End: Experience in UI Design using Figma and rebuilt an affiliate e-commerce website using WordPress(with Woocommerce Plugins and Elementor Free).</br>
-❤️ Back-End: OOP familiar with Generics, SOLID Principles, Data Sctutures and Algorithms. Languages: C#, C++, SQL, LINQ, Net.Framework and Windows Forms.</br>
+❤️ Back-End: OOP familiar with Generics, SOLID Principles, Data Sctutures and Algorithms. Languages: Node.js, Next.js, C#, C++, SQL, LINQ, Net.Framework and Windows Forms.</br>
+❤️ Database: MySQL(SSMS), MongoDB(Atlas and Compass), PostgreSQL (Supabase)
 ❤️ Tools: Visual Studio Code, Visual Studio 2022, Cursor, PostMan, MongoDb Compass and Atlas, Eclipse, My SQL, Unreal Engine(C++), Git & GitHub.
+
 ✨ Aspiring to become a FullStack Developer. </br>
 
 
