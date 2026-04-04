@@ -83,7 +83,7 @@
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=LizzyTrevisan&show_icons=true&theme=onedark">
   <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=LizzyTrevisan&layout=compact&theme=onedark" />
   <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=LizzyTrevisan&theme=github">
-  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=LizzyTrevisan&theme=onedark" />
+  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=LeizianeTrevisanDardin&theme=onedark" />
 </div>
 
 ## My Rewards
